@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Mayur Thakur 👋
 
-<!--
-**mayurthakurx/mayurthakurx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Incoming B.Tech CSE Student
+- 🌱 Currently exploring AI & Technology
+- 💡 Passionate about learning new things
+- 📍 Pune, Maharashtra, India
 
-Here are some ideas to get you started:
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mayurthakurx-blue)](https://linkedin.com/in/mayurthakurx)
+[![Instagram](https://img.shields.io/badge/Instagram-mayurthakurx-pink)](https://instagram.com/mayurthakurx)
+[![Twitter](https://img.shields.io/badge/Twitter-mayurthakurx-blue)](https://x.com/mayurthakurx)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayurthakurx&show_icons=true&theme=tokyonight)
+
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-Learning-blue)
+![AI](https://img.shields.io/badge/AI-Exploring-green)
+![CSE](https://img.shields.io/badge/CSE-Student-orange)
+
+---
+⭐ **"Learning every day, one step at a time"**
